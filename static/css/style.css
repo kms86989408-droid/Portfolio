@@ -1,0 +1,23 @@
+.wrapper{
+    width: 500px;        /* title이 가진 width랑 동일 */
+    margin: 0 auto;      /* wrapper 자체를 가운데 정렬 */
+}
+
+.title{
+    margin: 10px 0;      /* auto 말고 0으로 */
+    text-align: center;  /* 글자는 가운데 */
+}
+
+.contents{
+    /* margin-left: 22px; */
+    padding: 0;
+    text-align: left;    /* nav 텍스트 왼쪽 */
+    font-size: 20px;
+    color: black;
+    line-height: 2;
+}
+
+.nav-link{
+    color : black;
+    margin-left: 5px;
+}
